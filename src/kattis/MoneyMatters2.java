@@ -1,4 +1,4 @@
-package hackerrank;
+package kattis;
 
 import java.io.*;
 import java.util.*;
@@ -7,7 +7,7 @@ import java.math.*;
 
 import static java.lang.System.out;
 
-public class MoneyMatters {
+public class MoneyMatters2 {
 	
 	Kattio io;
 	
@@ -70,7 +70,7 @@ public class MoneyMatters {
 	}
 	
 	public static void main(String[] args) {
-		new MoneyMatters().go();
+		new MoneyMatters2().go();
 	}
 	
 	private class Kattio extends PrintWriter {

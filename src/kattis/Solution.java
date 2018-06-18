@@ -1,4 +1,4 @@
-package hackerrank;
+package kattis;
 import java.util.Scanner;
 
 public class Solution {
