@@ -9,6 +9,23 @@ import static java.lang.System.out;
 
 public class MoneyMatters {
 	
+	
+	private int
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	Kattio io;
 	
 	public void go() {
