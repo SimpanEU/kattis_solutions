@@ -44,6 +44,9 @@ public class MoneyMatters {
 			} else if (bal2 > bal1) {
 				balance[connectedFriends[i]] = 0;
 				balance[connectedFriends[i + 1]] = balanceCurrent;
+			} else if (bal1 == bal2) {
+				balance[connectedFriends[i]] = 0;
+				balance[connectedFriends[i + 1]] = 0;
 			}
 		}
 		if (balanceTotal == 0) {
